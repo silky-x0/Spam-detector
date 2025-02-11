@@ -67,7 +67,7 @@ The model achieves an **accuracy of 95%** on the test dataset. 🚀
 Contributions are welcome! Feel free to open a PR or issue. 💡
 
 ## 📜 License
-MIT License © 2025 Your Name. 📝
+MIT License © 2025 Akhilesh tiwari. 📝
 
 ---
 🌟 **Star this repo if you found it useful!** ⭐
