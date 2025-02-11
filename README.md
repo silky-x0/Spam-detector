@@ -20,22 +20,6 @@ This project is a **Spam Detector** that classifies messages as *spam* or *ham* 
 - **NumPy** 🔢
 - **Matplotlib/Seaborn** 📊
 
-## 📂 Project Structure
-```
-📁 spam-detector
-├── 📄 README.md  # Project documentation
-├── 📂 data       # Dataset folder
-│   ├── spam.csv  # Dataset file
-├── 📂 notebooks  # Jupyter Notebooks
-│   ├── spam_detection.ipynb  # Main notebook
-├── 📂 scripts    # Python scripts for preprocessing & training
-│   ├── preprocess.py  # Text preprocessing
-│   ├── train.py  # Model training
-│   ├── predict.py  # Prediction script
-├── 📂 models     # Trained ML models
-│   ├── model.pkl  # Saved model
-├── 📄 requirements.txt  # Dependencies
-```
 
 ## 🛠️ Installation & Setup
 1️⃣ Clone the repository:
